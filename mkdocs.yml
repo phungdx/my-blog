@@ -38,6 +38,7 @@ plugins:
 nav:
   - Home: index.md
   - PySpark:
-    - Optimization Tips: pyspark/optimize-tips.md
+    - Optimization Tips:
+      - Partition tuning: pyspark/partition-tuning.md
   - RAG:
     - Overview: rag/overview.md
