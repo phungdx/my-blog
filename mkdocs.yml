@@ -1,6 +1,7 @@
 site_name: My Learning Journey
 site_description: Documenting my learning and growth
 site_author: Phung Dao
+site_url: https://phungdx.github.io/my-blog/
 
 theme:
   name: material
