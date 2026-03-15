@@ -36,5 +36,4 @@ plugins:
 
 nav:
   - Home: index.md
-  - Blog:
-    - blog/index.md
+  - Blog: blog/index.md
