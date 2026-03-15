@@ -41,3 +41,5 @@ nav:
     - Overview: pyspark/pyspark-tips.md
   - Guides:
     - Welcome: guides/welcome.md
+  - RAG:
+    - Overview: rag/rag-overview.md
