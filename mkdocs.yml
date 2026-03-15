@@ -40,5 +40,6 @@ nav:
   - PySpark:
     - Optimization Tips:
       - Partition tuning: pyspark/partition-tuning.md
+      - Join strategies: pyspark/join-strategies.md
   - RAG:
     - Overview: rag/overview.md
