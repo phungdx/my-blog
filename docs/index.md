@@ -9,4 +9,4 @@ Here I'll be sharing:
 - Notes on new technologies I'm exploring.
 - Project showcases and behind-the-scenes.
 
-Head over to my [Blog](blog/index.md) to read my latest posts!
+Head over to my [Guides](guides/welcome.md) to read my latest posts!

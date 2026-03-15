@@ -26,14 +26,18 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes
+    - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
 
 plugins:
   - search
-  - blog
 
 nav:
   - Home: index.md
-  - Blog: blog/index.md
+  - PySpark Tips:
+    - Overview: pyspark/pyspark-tips.md
+  - Guides:
+    - Welcome: guides/welcome.md
