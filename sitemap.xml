@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://phungdx.github.io/my-blog/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://phungdx.github.io/my-blog/pyspark/join-strategies/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://phungdx.github.io/my-blog/pyspark/optimize-tips-preface/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://phungdx.github.io/my-blog/pyspark/partition-tuning/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+    <url>
+         <loc>https://phungdx.github.io/my-blog/rag/overview/</loc>
+         <lastmod>2026-03-15</lastmod>
+    </url>
+</urlset>
