@@ -37,9 +37,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - PySpark Tips:
-    - Overview: pyspark/pyspark-tips.md
-  - Guides:
-    - Welcome: guides/welcome.md
+  - PySpark:
+    - Optimization Tips: pyspark/optimize-tips.md
   - RAG:
-    - Overview: rag/rag-overview.md
+    - Overview: rag/overview.md
